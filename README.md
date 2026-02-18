@@ -113,4 +113,4 @@ Smooth hover effects
 Responsive layout
 
 ## 👨‍💻 Author
-Built by Vaish
+Built by Vaishnavi
